@@ -72,3 +72,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 6. php artisan config:cache
 7. set .env database 
 8. php artisan migrate
+
+*optional 
+yarn run watch
