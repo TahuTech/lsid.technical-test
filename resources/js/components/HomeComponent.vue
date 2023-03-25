@@ -1,11 +1,12 @@
 <template>
-    <h5>{{title}}</h5>
+    <h4>{{title}}</h4>
+    <h4>By Nur Ali Sholikhin</h4>
 </template>
 
 <script>
 export default {
     setup: () => ({
-        title: 'Welcome to the Todo Single Page Application in Laravel 9 and Vue JS 3'
+        title: 'This Todo_Apps Using Laravel 9 + Vue3'
     })
 }
 </script>

@@ -20,7 +20,7 @@ const router = VueRouter.createRouter({
 
 const app = createApp({})
 
-window.url = 'todo_app/public/'
+window.url = '/todo_app/public/'
 
 app.use(router)
 
